@@ -14,3 +14,6 @@
 
 ## FONTE UTILIZADA
 - Montserrat https://fonts.google.com/specimen/Montserrat
+
+## HOSPEDAGEM NO GIT PAGES
+- https://rodrigoemmanoel.github.io/listagem-api-restful/
